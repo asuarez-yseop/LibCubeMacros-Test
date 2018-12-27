@@ -1,6 +1,6 @@
 # LibCubeMacros-Test
 
-Followed steps to automatically create .bas files from Microsoft Excel File
+Followed steps from the web page below to automatically create .bas files from Microsoft Excel file
 
 https://www.xltrail.com/blog/auto-export-vba-commit-hook
 
