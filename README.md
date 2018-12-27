@@ -1,6 +1,6 @@
 # LibCubeMacros-Test
 
-# This is a test to extract vba code from an excel file 
+# This is a demo to extract vba code from an excel file 
 
 Followed steps from the web page below to automatically create .bas files from Microsoft Excel file
 
