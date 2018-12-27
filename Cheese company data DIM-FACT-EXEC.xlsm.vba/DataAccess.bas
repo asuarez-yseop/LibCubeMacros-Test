@@ -1,4 +1,5 @@
 'Doc: this module contains functions that lookup into the fact and dimension tables and return data in memory structures that are easier to use
+'Esto es una prueba de alvaro para ver si funciona en git hook pre commit
 
 Public Const CITIES_SHEET_NAME As String = "Cities"
 Public Const CITIES_TABLE_NAME As String = "CitiesTable"
